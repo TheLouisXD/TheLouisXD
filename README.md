@@ -22,7 +22,7 @@ Tambien estoy aprendiendo estos lenguajes (o tecnologias en general xd):
 
 ## info extra :0
 
-Ademas de programar, soy vtuber y hago stream en twitch :3, si quieres verme puedes seguirme en el siguiente link: https://www.twitch.tv/thelouisxd
+Ademas de programar, soy vtuber y hago stream en twitch :3, si quieres verme puedes seguirme en el siguiente link: https://www.twitch.tv/thelouisxd_
 
 ## Para terminar 🤙
 
