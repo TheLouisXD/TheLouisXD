@@ -29,8 +29,6 @@ Ademas de programar, soy vtuber y hago stream en twitch :3, si quieres verme pue
 Esta descripcion no es final, pero creo que lo más dificil de hacer cualquier cosa es comenzar, asi que espero mejorar mi README y asi poder incluir más informacion importante.  
 Si leiste hasta aqui quiero darte las gracias UwU, significa mucho para mi el que hayas leido todo xd.
 
-Pd: Aguante el ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white) 💪
-
 <!--
 **TheLouisXD/TheLouisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
