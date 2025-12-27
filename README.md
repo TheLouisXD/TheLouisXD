@@ -5,7 +5,7 @@ te preguntaras ¿Quien soy? o ¿por que entre en este perfil?, bueno, las respue
 ## ¿Quien soy? 🤔
 
 Mi nombre es Luis, mejor conocido como TheLouisXD en twitch y otras redes.
-Soy un estudiante de 2° año de ingenieria en informatica en Inacap, Actualmente tengo 20 años y quiero especializarme en el front-end >.<
+Soy un estudiante de 2° año de ingenieria en informatica en Inacap, Actualmente tengo 21 años y quiero especializarme en el front-end >.<
 
 En mi perfil de github encontraras proyectos que he realizado, junto con otras cosas como evaluaciones o tareas que me dan y los guardo aca para no olvidarlos XD.
 
