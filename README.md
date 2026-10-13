@@ -1,6 +1,6 @@
 ## Bienvenido a mi perfil de github ฅ≽(•⩊ •マ≼
 Mi nombre es Luis, soy un desarrollador junior especializado en front-end, con una gran pasión por aprender y dominar nuevas tecnologías. 
-Actualmente, curso el séptimo semestre de Ingeniería en Informática en Inacap y tengo 21 años. Me enfoco en crecer profesionalmente, adquiriendo habilidades prácticas y teóricas que me permitan aportar valor en proyectos de diseño y desarrollo web. 
+Actualmente, curso el séptimo semestre de Ingeniería en Informática en Inacap y tengo 22 años. Me enfoco en crecer profesionalmente, adquiriendo habilidades prácticas y teóricas que me permitan aportar valor en proyectos de diseño y desarrollo web. 
 
 En mi perfil de github encontraras proyectos que he realizado, diseños que estoy probando y tambien trabajos que he realizado para mi carrera de Inacap.
 
